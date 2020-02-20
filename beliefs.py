@@ -9,19 +9,8 @@ import utils
 class Belief(object):
     """
     Belief class used to track the belief distribution based on the
-    sensing evidence we have so far.
-    Arguments:
-    size (int): the number of rows/columns in the grid
+    sensing evidence.
 
-    Attributes:
-    open (set of tuples): set containing all the positions that have not
-        been observed so far.
-    current_distribution (dictionary): probability distribution based on
-        the evidence acquired so far.
-        The keys of the dictionary are the possible grid positions
-        The values represent the (conditional) probability that the
-        treasure is found at that position given the evidence
-        (sensor data) accumulated so far.
     """
 
     def __init__(self, size):
@@ -34,7 +23,7 @@ class Belief(object):
     def update(self, color, sensor_position, model):
 
         """
-                Update the belief distribution based on new evidence:  our agent
+                Update the belief distribution based on new evidence:  agent
                 detected the given color at sensor location: sensor_position.
                 :param color: (string) color detected
                 :param sensor_position: (tuple) position of the sensor
@@ -58,20 +47,6 @@ class Belief(object):
         self.open.remove(sensor_position)
 
     def recommend_sensing(self):
-        """
-        Recommend where we should take the next measurement in the grid.
-        The position should be the most promising unobserved location.
-
-        If all remaining unobserved locations have a probability of 0,
-        return the unobserved location that is closest to the (observed)
-        location with he highest probablity.
-
-        If there are no remaining unobserved locations return the
-        (observed) location with the highest probability.
-
-        :return: tuple representing the position where we should take
-            the next measurement
-        """
 
         unobserved_probability = {}
         observed_probability = {}

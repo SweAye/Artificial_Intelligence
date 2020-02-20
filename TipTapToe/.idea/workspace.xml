@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae0f679a-3506-416f-a02b-5b2e9de37384" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../VisualWorkSpace/sample_react_Heroku/clone/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../010632089-Swe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../195A_E 2019 Spring Schedule-2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../A_Framework_for_Social_Life_Cy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/172-Review.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/CS166+-+Lecture+24+-+Final+Review.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DSC_6999.NEF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_Log_in.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_departments.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_dept_emp.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_dept_manager.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_employees.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_salaries.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DataBaseDump/employees_titles.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DatabaseServer/Screen Shot 2018-12-03 at 7.37.48 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/DatabaseServer/Screen Shot 2018-12-03 at 7.39.13 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Final Project Presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-01 at 10.12.26 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 1.56.12 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 1.59.16 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.05.20 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.07.38 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.08.33 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.12.35 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.21.09 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.27.27 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 2.28.34 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 3.35.30 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 4.39.47 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 4.50.38 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 5.00.29 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/FinalProject screenshots/Screen Shot 2018-12-03 at 5.05.51 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/HW 14a solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/HW 14b solutions.pdf - Google Drive.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/IMG_3759.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Name.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/Retweet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/Search1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/TimeLine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/TrendClosest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/Trends.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/Users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/follower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/NewScreenShots/search2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Screen Shot 2018-10-22 at 10.00.59 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Screen Shot 2018-10-22 at 10.03.47 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Screen Shot 2018-10-22 at 10.09.49 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Screen Shot 2018-10-22 at 9.49.53 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Screen Shot 2018-10-30 at 6.21.06 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/Shopping Cart Transaction Confirmation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleForce/trendSearchSampleDisplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleforceHomeWork/DeveloperBeginnerTrail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleforceHomeWork/Saleforce.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SaleforceHomeWork/Screen Shot 2018-11-11 at 4.32.05 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-10-27 at 9.47.12 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-11-05 at 5.13.28 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-11-05 at 5.14.18 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-04 at 12.08.34 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-06 at 3.16.06 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-08 at 7.49.03 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-09 at 10.23.57 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-13 at 8.04.43 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/Screen Shot 2018-12-13 at 8.11.11 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SecurityExtraCredit.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/SecurityTextBook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/Homepage3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/RatingList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/AllAboutTonight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/AllaboutThatBase.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/BeautifulTrauma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/Breakaway.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/Butterfly.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/InMyTime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/ItsTime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/Purpose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/Reputation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/SlipperyWhenWet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/TeenageDream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/TheFame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/TheGoldenAge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/ToWhereYouAre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumImage3/UnorthodoxJukebox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/albumProfile.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/Adele.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/BlakeShelton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/BonJovi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/BrunoMars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/JoshGroban.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/JustinBieber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/KatyPerry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/KellyClarkson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/LadyGaga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/MariahCarey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/MeganTrainor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/MichaelBuble.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/Pink.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/TaylorSwift.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/Woodkid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistImage3/Yanni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/artistProfile.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/blaze.colors.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/blaze.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/delete.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/homepage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.MetaData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.rating.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.rating.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.textfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/jquery.textfill.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/login2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/main3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/music_vault_profile.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/music_vault_ratingcheck.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/music_vault_songs.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/music_vault_users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/register2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/RatingListDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/RatingServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/Songs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/albumPageDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/albumPageServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/artistPageDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/artistPageServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/src/haveRated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/star.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/updatedAlbums.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/2018FallGeneral/cs157a-master/updatedArtists.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/A Helpful Invention_Justin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/A Perfect dayJustin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Avengers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Blue_Dock_by_dimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Enterprise Final Project Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Final Project Presentation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-19 at 4.54.29 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-25 at 11.06.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-27 at 5.22.33 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-27 at 5.24.20 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-27 at 5.24.45 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-27 at 5.27.19 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-11-28 at 8.16.46 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 10.31.10 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.15.55 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.16.32 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.17.00 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.17.21 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.17.47 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.18.03 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.19.56 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 11.20.32 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-01 at 9.19.17 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 2.30.11 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 4.12.46 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 4.13.08 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 4.15.09 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 4.20.37 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 4.48.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.32.15 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.46.46 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.49.40 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.50.04 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.50.18 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 5.50.47 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 7.56.38 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 7.58.32 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 8.01.35 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 8.20.48 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 8.25.30 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 8.50.30 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 9.13.24 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-03 at 9.57.28 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-04 at 1.04.39 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-04 at 1.05.07 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-04 at 1.05.32 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-04 at 1.20.35 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/Screen Shot 2018-12-04 at 12.38.40 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/aws.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/AllScreenShotsFinalEnterprise/employee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Application Graduation_Jaun_22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Aye_Swe_Transcript.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/CMPE195E.webarchive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/DSC_6267.NEF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/DSC_6360.NEF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/DSC_6383.NEF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/DSC_6388.NEF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ENGR195A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ENGR195A_Lectures/25.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Enterprise Standard.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/BusinessAnalysisToolsANDTableau.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/ConcurrencyDatabase.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/ENTERPRISE SERVICE BUS,MESSAGING,TRANSACTIONS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/Microservice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/SecurityProtocolEnterpise.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture/Standard_TOGAF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLecture23.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseLectureSecurity.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/EnterpriseSoftwareLecture.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Fall2019Schedule.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/Graduation_application.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/Planner.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/Planner2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/Swe, Aye_Major FormCorrection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/checklist.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Graduation/se-majorform-fall2016_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Hello Justin.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/CMPE172_HW4-1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Docker configuratuion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Jenkin image in Docker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/JenkinUpandRunning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/JenkinsHomeWorkGoogle.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Port80JenkinRunning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 10.30.50 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 10.55.27 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.12.14 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.12.38 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.13.28 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.17.25 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.19.14 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.40.32 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.42.34 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 11.43.12 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 8.51.06 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 8.57.05 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 8.57.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 9.06.36 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/JenkinHomeWork/Screen Shot 2018-11-08 at 9.37.44 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/KarafProjectScreenShots/HW #2 - Karaf_Twitter-3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/KarafProjectScreenShots/HW #2 - Karaf_Twitter.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/KarafProjectScreenShots/Screen Shot 2018-10-07 at 8.43.25 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/KarafProjectScreenShots/Screen Shot 2018-10-07 at 8.43.55 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Latest_Resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/MONOCHROME.NP3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/My Course History.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/MySchedulerJaunary_22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/NKSC_PARAM/DSC_6360.NEF.nksc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/New Graduation Application/NewPlanner_2019Spring.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/New Graduation Application/Newse-majorform-fall2016_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/New Graduation Application/PlannerReport.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/New Graduation Application/Unofficial Transcripts.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/PHIL186.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/PORTRAIT.NP3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Project Release Form 20100820.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment/Screen Shot 2018-11-02 at 1.10.46 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment/Screen Shot 2018-11-02 at 1.11.08 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment/Screen Shot 2018-11-02 at 1.11.24 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment/Screen Shot 2018-11-02 at 1.11.36 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment2/ 8910.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment2/123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment2/345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/ProtocolAssignment2/567.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-23 at 10.06.57 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-23 at 9.56.01 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-25 at 8.41.05 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-28 at 11.01.40 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-28 at 11.57.11 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-28 at 11.58.38 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-28 at 11.59.35 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Screen Shot 2019-01-28 at 5.40.21 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Story Summary.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Student CenterSchedule.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/2_AccessControl.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/MySchedulerSpring2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/PlanForSpring.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/PlannerForgratution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/PlannerLatestVersion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/Screen Shot 2018-11-05 at 5.13.59 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/Screen Shot 2018-11-07 at 7.38.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/Spring 2019EnrolledSchedule.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Temp/drive.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Unofficial Transcripts.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/Unofficial Transcripts_CMPE195A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/costco/DSC_5840.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/costco/DSC_5841.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/costco/DSC_6116.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/costco/DSC_6207.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/honestyPledge 20160202-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/honestyPledge+20160202.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/honestyPledge_CMPE133.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/inducedMagneticField/ElectricPotential.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/inducedMagneticField/Screen Shot 2018-11-05 at 4.49.18 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/inducedMagneticField/Screen Shot 2018-11-05 at 4.49.33 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/inducedMagneticField/Screen Shot 2018-11-05 at 5.05.12 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/inducedMagneticField/The faster the motion.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/parkingPemit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/prequired-Chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/pyton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/se-majorform-Janu_22 PDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/se-majorform-Janu_22.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/se-majorform-Janu_28 2.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/se-majorform-Janu_28.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../All/se-majorform-Janu_28PDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aye'sPofilio/EnterpriseSoftware.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aye_Swe_Resume copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aye_Swe_Resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BreastCancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133/CMPE133_Textbook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133/Textbook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/my-app/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE133Team/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/Area S LO 1 Essay 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/CMPE-195A-Sp19-GS-Fatoohi-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/CMPE195AEssay.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/Describe historical.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/Essay#4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CMPE195A/Essay3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7122.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7123.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7124.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7125.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7126.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7127.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7128.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7129.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7130.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7131.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7132.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7133.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7134.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7135.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chinese New year/DSC_7136.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/DSC_7045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/DSC_7050.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/DSC_7052.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_5389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_5613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_5828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_5877.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6570 copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6579.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/IMG_6903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Choosen/_ABK4352.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Aye Swe.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/BigData:Privacy/Citation List.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/BigData:Privacy/Helm2018_Article_TreatingSensitiveTopicsOnlineA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/BigData:Privacy/The Limit of BigDat.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/ENGR195A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/ENGR195A_Spring_2019 Syllabus .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Exerciese7Answer.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/FinalEssayForENGR195A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Interview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Learning R Language.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Lecture March 7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Reflection Paper #1 Social life cycle impact analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/ReflectionPaper2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/ReflectionPaper:BIg Data.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ENGR195A/Yep.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final Schedule For every Subject/Schedule.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Go to Disney Land.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/CMPE:SE Graduation Survey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/Graduation_application_Feb1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/Planner-Feb1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/Unofficial Transcripts.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/checklist.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/se-majorform-Feb_1.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graduation_Feb1/transfer Credit Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML/yellow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Heiner_Establishment_V_Environ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../How Much Radiation is in Your House.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IMG_6150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Install Respondus LockDown Browser (x64c) 967937270.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaReview/Test1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaReview/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaReview/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaReview/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaReview/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Json-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7036.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7037.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7038.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7039.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7040.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7041.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7042.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7043.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7044.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7045.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7046.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7047.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7048.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7049.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7050.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7051.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7052.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7053.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7054.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7055.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7056.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7057.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7058.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7059.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7060.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7061.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7062.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7063.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/DSC_7064.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Class photo/PEREIRA Room(8)ClassPicture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Year book/Garden_SecondPage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Year book/Garden_first_page.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Year book/Room 4 Yearbook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Justin's Year book/Yearbook Pages guidelines.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LastPullrequestProcedure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LatestMachineLearningProjectProposal.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Assignment1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/BlueTextBook.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Exercise7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Homework2Due20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Homework3Due27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Homework4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Linear Algebra And Its Applications   - David C Lay.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Linear Algebra.pdf .webarchive" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/M129AEx5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/Matrix_inverse.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearAlgebra/solution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/2019_02_07 Class Notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/21MarchLeacture.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Data Preprocessing.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/February 14.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/For the following assignments.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework #2 PDF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework #2 copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework #2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework 4 copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework 4 copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework 4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework3 copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Homework3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Intermediate Status Report copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Intermediate Status Report copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Intermediate Status Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Learning R Language.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Lecture 2:28.dotx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Lecture21.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Lectures/algos-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Literature Review.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Machine Learning copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Machine Learning.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Machine LearningPDf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Midterm review self_test.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Project Proposal.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Support Vector Machine.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/Syllabus.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/TextBook(HKP).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/bigDataIntro-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/homework/Pythonhomework/Screen Shot 2019-02-09 at 3.39.35 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/homework/Screen Shot 2019-02-09 at 3.46.32 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/homework_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MachineLearning/~$arning R Language.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MoneyTransfer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Past_purchase_backup.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/Conclusion.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/How Much Radiation is in Your House.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/Hypothesis.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/Results.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/electromagnetic radiation.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patrick/test.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PatrickScienceProject.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Photo/10703505_1500516633537729_833505493749324914_n.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Photo/10731018_1500516716871054_3906142522931596229_n.jpg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Photo/IMG_4156.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Plants_Justin'sScienceProject.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Buddies/IMG_5379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Buddies/IMG_6586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/DonEdardward/IMG_5828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/DonEdardward/IMG_5840.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/DonEdardward/IMG_5877.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Garden_FirstPage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Garden_SecondPage.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Heritage/IMG_6890.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Heritage/IMG_6897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Heritage/IMG_6899.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Heritage/IMG_6903.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/HolitdayParty/IMG_6196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/HolitdayParty/IMG_6198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Holloween/014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Holloween/022.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/Holloween/_ABK4352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/HomeDepot/IMG_5603 copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/HomeDepot/IMG_5603.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/HomeDepot/IMG_5613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ScienceFair/IMG_6852.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ScienceFair/IMG_6853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ScienceFair/IMG_6855.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ScienceFair/IMG_6863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ValentineDay/IMG_6570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ValentineDay/IMG_6572.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ValentineDay/IMG_6575 copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ValentineDay/IMG_6575.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/ValentineDay/IMG_6579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/misillious/IMG_6102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/misillious/IMG_6124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_5389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_6801.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_6808.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_6809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_6811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ponderosa_Photoes/spritDay/IMG_6823.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/.RData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/.Rapp.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/.Rhistory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/Test.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/Untitled.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/address.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../R_WorkingSpace/sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reat Create folder instruction.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Reflection paper Instruction.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/AyeSweReflection1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/MeatIndustry.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/Reflection paper Instruction And references.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/TrackingdownSoicalLifecycleAssement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/Vocabulary.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReflectionPaperReading/cattleRunoff.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-01 at 12.03.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-01 at 12.04.01 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-01 at 12.07.48 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-03 at 4.23.27 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-03 at 4.31.50 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-03 at 4.32.43 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-03 at 4.36.48 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-07 at 9.16.47 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-07 at 9.17.05 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-10 at 9.20.07 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-10 at 9.20.30 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-20 at 12.34.27 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-20 at 12.34.45 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-20 at 12.34.56 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Shot 2019-04-20 at 8.11.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamEvalution.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thida1098T.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualWorkSpace/SampleWebsite/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../VisualWorkSpace/SampleWebsite/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualWorkSpace/form/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../VisualWorkSpace/form/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualWorkSpace/latest_minisafeway/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualWorkSpace/miniSafeway/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualWorkSpace/miniSafeway2/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Working_JsonData/Json-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Working_JsonData/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Working_JsonData/sampleJson copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Working_JsonData/sampleJson.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Year_Book/Garden.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Year_Book/YearBook_Sample.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Year_Book/Yearbook Pages guidelines.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Year_Book/ocean.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Yep summarization.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Your Domaincom Order Confirmation  Login Info.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../images/rose.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insurance_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jsutin.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/Bitcoin stock market project_ Progress_Notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/Collect data.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/Project Rubric.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/ProjectReportTemplate.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/Rubric.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/SocialMedia And Veracity Detection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../machineLearningProject/Use case1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ocean.dms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sampleJson.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adversarial_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="195" selection-start-line="195" selection-end-line="196" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tictactoe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1624" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/adversarial_search.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="654" />
+    <option name="y" value="23" />
+    <option name="width" value="786" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Last_Version" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Last_Version" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae0f679a-3506-416f-a02b-5b2e9de37384" name="Default Changelist" comment="" />
+      <created>1571110002083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571110002083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="654" y="23" width="786" height="825" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12810458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.0971831" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tictactoe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1624" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adversarial_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="195" selection-start-line="195" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
