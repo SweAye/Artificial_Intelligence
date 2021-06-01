@@ -1,9 +1,6 @@
 # ----------------------------------------------------------------------
 # Name:     adversarial_search
-# Purpose:  Homework 6 - Implement adversarial search algorithms
-#
-# Author:
-#
+# Purpose:  Implement adversarial search algorithms
 # ----------------------------------------------------------------------
 """
 Adversarial search algorithms implementation
@@ -14,7 +11,7 @@ Your task for homework 6 is to implement:
 3.  abdl (alpha beta depth limited)
 """
 import random
-import math  # You can use math.inf to initialize to infinity
+import math  
 
 def rand(game_state):
     """
