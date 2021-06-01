@@ -1,8 +1,6 @@
 # ----------------------------------------------------------------------
 # Name:        tictac
 # Purpose:     Implement a game of Tic Tac Toe
-#
-# Author:      Rula Khayrallah
 # ----------------------------------------------------------------------
 """
 A Tic Tac Toe game implementation.
